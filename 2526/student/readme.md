@@ -12,10 +12,10 @@
 | 0 | LING YU QIAN | lingyuqian0301 | [:octocat:](https://github.com/lingyuqian0301) | <a href="https://www.linkedin.com/in/ling-yu-qian-90514025b"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://web4me-ai-team.github.io/lingyuqian/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 1 | AIN NURNABILA BINTI MOHD AZHAR |  |  |  |  |
 | 2 | BRENDAN CHIA YAN FEI | brendan-chia | [:octocat:](https://github.com/brendan-chia)  | <a href="https://www.linkedin.com/in/brendan-chia-8a0a9329a/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> |  |
-| 3 | CHAU YING JIA | chauyingjia | [:octocat:](https://github.com/chauyingjia) | <a href="https://www.linkedin.com/in/chau-ying-jia-949717299"><img src="../../images/linkedin.png" width="24px" height="24px"></a> |  |
+| 3 | CHAU YING JIA |  |  |  |  |
 | 4 | CHERYL CHEONG KAH VOON |  |  |  |  |
 | 5 | CHEW CHIU XIAN |  |  |  |  |
-| 6 | CHUA JIA LIN | ChuaJiaLin | [:octocat:](https://github.com/ChuaJiaLin) | <a href="[www.linkedin.com/in/chua-jia-lin-21921929a](https://www.linkedin.com/in/chua-jia-lin-21921929a/)"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://chuajialin.github.io/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
+| 6 | CHUA JIA LIN | ChuaJiaLin | [:octocat:](https://github.com/ChuaJiaLin) | <a href="www.linkedin.com/in/chua-jia-lin-21921929a"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://chuajialin.github.io/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 | 7 | DAMIYA AINA BINTI BASIR ABD SHAMMAD |  |  |  |  |
 | 8 | DAYANG FARAH FARZANA BINTI ABANG IDHAM|  |  |  |  |
 | 9 | ELIJAH SHE YU SHENG |  |  |  |  |
@@ -23,20 +23,19 @@
 |11 | FARRA NURZAHIN BINTI ZAHARIL ANUAR |  |  |  |  |
 |12 | GUI KAH SIN |  |  |  |  |
 |13 | JOANNE CHING YIN XUAN |  |  |  |  |
-|14 | LAU YAN KAI |  lauyankai | [:octocat:](https://github.com/lauyankai) |  <a href="https://www.linkedin.com/in/lauyankai/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/lauyankai"><img src="../../images/portfolio.png" width="24px" height="24px"></a>   |
+|14 | LAU YAN KAI |  |  |  |  |
 |15 | LAU YEE WEN |  |  |  |  |
 |16 | LEE YIN SHEN | leeyinshen0818 | [:octocat:](https://github.com/leeyinshen0818) | <a href="https://www.linkedin.com/in/lee-yin-shen-86ba87297/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/leeyinshen0818"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 |17 | LIM YU HAN |  |  |  |  |
 |18 | LUBNA AL HAANI BINTI RADZUAN |  |  |  |  |
 |19 | NEO LI XIN |  |  |  |  |
 |20 | NUR FIRZANA BINTI BADRUS HISHAM | firzanabadrus | [:octocat:](https://github.com/firzanabadrus) | <a href="https://www.linkedin.com/in/firzanabadrus"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/firzanabadrus"><img src="../../images/portfolio.png" width="24px" height="24px"></a>  |
-|21 | NURAISYAH BINTI MOHD ZIKRE | nuraisyah04 |  [:octocat:](https://github.com/nuraisyah04) | <a href="www.linkedin.com/in/nuraisyah-mohd-zikre-021505296"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/nuraisyah04"><img src="../../images/portfolio.png" width="24px" height="24px"></a>   |
+|21 | NURAISYAH BINTI MOHD ZIKRE |  |  |  |  |
 |22 | NURUL IKA SYAFINY BINTI AZHAR |  ikaazhar  | [:octocat:](https://github.com/ikaazhar)  | <a href="https://www.linkedin.com/in/ikaazhar/" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href="https://ikaazhar.github.io/"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 |23 | POH LOK YEE |  |  |  |  |
 |24 | SABRINA HENG WEI QI | SabrinaHeng | [:octocat:](https://github.com/SabrinaHeng) | <a href="https://www.linkedin.com/in/sabrina-heng-408398243/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> | <a href="https://github.com/SabrinaHeng"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
-|25 | SAFIYA NURSYAHADAH BINTI MASNOOR |  |  |  |  |
+|25 | SAFIYA NURSYAHADAH BINTI MASNOOR | [:octocat:](https://github.com/sfiyamsnr) | <a href="https://www.linkedin.com/in/safiyanursyahadah"><img src="../../images/linkedin.png" width="24px" height="24px"></a> |  |  <a href="https://github.com/sfiyamsnr"><img src="../../images/portfolio.png" width="24px" height="24px"></a> |
 |26 | TAN ZHI MING |ZHIMING04  |[:octocat:](https://github.com/ZHIMING04)  |<a href="https://www.linkedin.com/in/zhimingtan/"><img src="../../images/linkedin.png" width="24px" height="24px"></a> |<a href="https://github.com/ZHIMING04"><img src="../../images/portfolio.png" width="24px" height="24px"></a>  |
-|27 | WOO CHENG SHUAN | Woo-Cheng-Shuan  |[:octocat:](https://github.com/Woo-Cheng-Shuan)  ||<a href="https://www.linkedin.com/in/cheng-shuan-woo-08534329a/" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a>  |<a href="https://github.com/Woo-Cheng-Shuan"><img src="../../images/portfolio.png" width="24px" height="24px"></a>  |
 
 
 ## Contribution 🛠️
